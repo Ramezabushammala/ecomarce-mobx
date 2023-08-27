@@ -1,0 +1,55 @@
+.allCard {
+    position: relative;
+    height: 130px;
+    width: 130px;
+  }
+  .categotycard {
+    height: 140px;
+    width: 100%;
+    border-radius: 50%;
+    opacity: 0.3;
+  }
+  
+  .categotycardimg {
+    max-width: 110px;
+    max-height: 100px;
+    position: absolute;
+    top: 20%;
+    left: 10%;
+  }
+  .categotycardtext {
+    color: #555550;
+    font-family: Almarai;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+  }
+  .admincontenttext {
+    color: #555550;
+    font-family: Almarai;
+    font-size: 21px;
+    font-weight: 800;
+    letter-spacing: 0;
+    line-height: 28px;
+    text-align: right;
+  }
+
+  .catheader {
+    height: 100%;
+    background-color: white;
+  }
+  
+  .cattextheader {
+    color: #979797;
+    font-family: "Almarai";
+    font-size: 12px;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 23px;
+    padding-top: 10px;
+    margin-left: 17px;
+    cursor: pointer;
+  }
+  .cattextheader:hover {
+    color: #555550;
+  }

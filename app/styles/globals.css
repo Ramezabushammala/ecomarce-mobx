@@ -1,0 +1,49 @@
+.footerbackground {
+  background-color: #ffffff;
+}
+
+.footer {
+  width: 100%;
+}
+.footershroot {
+  color: #979797;
+  font-family: Almarai;
+  font-size: 13px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 18px;
+  cursor: pointer;
+}
+
+.footerphone {
+  color: #979797;
+  font-family: "Almarai";
+  font-size: 13px;
+  font-weight: bold;
+  text-align: right;
+  cursor: pointer;
+}
+  /* edit any dropmenu class withot class in html */
+  .dropdown-toggle{
+    color:white !important;
+    font-size :16px !important;
+    font-weight: bold;
+    margin-top: 24px;
+  }
+  .dropdown-menu{
+    background-color: #212529 !important;
+    color:white !important;
+  }
+  .dropdown-item{
+    color:white !important;
+    text-align: center;
+  }
+  .dropdown-item:hover{
+    color: #212529 !important;
+    background-color: rgb(255, 255, 255) !important;
+  }
+  #upload-photo{
+    opacity: 0;
+    position: absolute;
+    z-index: -1;
+  }

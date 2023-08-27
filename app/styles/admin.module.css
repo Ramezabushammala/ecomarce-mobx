@@ -1,0 +1,102 @@
+/* admin style  */
+.sidebar {
+    height: 660px;
+    width: 100%;
+    border-radius: 21px;
+    background-color: #ffffff;
+  }
+  
+  .adminsidetext {
+    color: #272727;
+    font-family: "Almarai";
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 20px;
+    text-align: right;
+    width: 100%;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .adminsidetext:hover {
+    background-color: #272727;
+    color: white;
+    font-size: 14px;
+  }
+  .admincontenttext {
+    color: #555550;
+    font-family: Almarai;
+    font-size: 21px;
+    font-weight: 800;
+    letter-spacing: 0;
+    line-height: 28px;
+    text-align: right;
+  }
+  .itemdeleteedit {
+    color: #979797;
+    font-family: "Almarai";
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 30px;
+    text-align: right;
+    cursor: pointer;
+  }
+  
+  .textform {
+    color: #979797;
+    font-family: "Almarai";
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 20px;
+    text-align: right;
+  }
+  .inputform {
+    height: 37px;
+    width: 100%;
+    border: 1px solid #979797;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  .inputformarea {
+    width: 100%;
+    border: 1px solid #979797;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  .select {
+    box-sizing: border-box;
+    height: 40px;
+    color: #979797;
+    width: 100%;
+    border: 1px solid #979797;
+    border-radius: 8px;
+  }
+  .btnsave {
+    border: none;
+    color: white;
+    height: 46px;
+    width: 150px;
+    border-radius: 9px;
+    background-color: #272727;
+  }
+  .btnsave:hover {
+    color: rgb(164, 164, 164);
+  }
+  .btna {
+    border: none;
+    color: white;
+    height: 45px;
+    border-radius: 9px;
+    background-color: #272727;
+  }
+  .btna:hover {
+    color: rgb(164, 164, 164);
+  }
+  .color {
+    cursor: pointer;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+  }
+  /* end admin  */
